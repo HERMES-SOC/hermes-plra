@@ -24,7 +24,9 @@ The HERMES Project Scientist and the HERMES instrument Principal Investigators s
 
 ### 4.4.2 Data Management Plan
 
-The HERMES project shall develop a project data management plan to address the total activity associated with the flow of science data, from acquisition, through processing, data product generation and validation, to archiving and preservation. The data management plan shall be generated in preliminary form by the project Single Design Review and formally approved as a Level 2 requirement no later than the project's Pre-Ship Review. Science analysis software development, utilization, and ownership shall be covered in the Data Management Plan. Mission Success Criteria
+The HERMES project shall develop a project data management plan to address the total activity associated with the flow of science data, from acquisition, through processing, data product generation and validation, to archiving and preservation. The data management plan shall be generated in preliminary form by the project Single Design Review and formally approved as a Level 2 requirement no later than the project's Pre-Ship Review. Science analysis software development, utilization, and ownership shall be covered in the Data Management Plan. 
+
+## 4.5 Mission Success Criteria
 
 ### 4.5.1 Baseline Mission
 
